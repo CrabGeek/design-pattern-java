@@ -1,4 +1,4 @@
-package com.crabgeek.pattern.chain;
+package com.crabgeek.pattern.behavior.chain;
 
 public abstract class Player {
     private Player successor;

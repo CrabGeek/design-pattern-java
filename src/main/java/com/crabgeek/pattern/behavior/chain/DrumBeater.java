@@ -1,4 +1,4 @@
-package com.crabgeek.pattern.chain;
+package com.crabgeek.pattern.behavior.chain;
 
 public class DrumBeater {
     public static void main(String[] args) {
