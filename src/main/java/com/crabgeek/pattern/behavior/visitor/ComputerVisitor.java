@@ -1,4 +1,4 @@
-package com.crabgeek.pattern.structual.visitor;
+package com.crabgeek.pattern.behavior.visitor;
 
 public interface ComputerVisitor {
     void visitCPU(CPU cpu);

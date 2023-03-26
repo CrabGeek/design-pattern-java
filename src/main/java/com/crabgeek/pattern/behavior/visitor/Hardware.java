@@ -1,4 +1,4 @@
-package com.crabgeek.pattern.structual.visitor;
+package com.crabgeek.pattern.behavior.visitor;
 
 /**
  * @program: design-pattern-java
